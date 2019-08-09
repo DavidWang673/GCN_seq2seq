@@ -8,11 +8,9 @@
 GCN_seq2seq model for speed prediction implemented in pytorch<br>
 
 ## Network Structure<br>
-GCN:   first_order <br>
-<div> cheby_poly <br>
-if deep netwrok, residual connection<br><br>
+GCN:   first_order or cheby_poly, if deep netwrok, residual connection <br><br>
 
-Seq2Seq
+Seq2Seq<br>
 ## Citation<br>
 SEMI-SUPERVISED CLASSIFICATION WITH GRAPH CONVOLUTIONAL NETWORKS<br>
 Published as a conference paper at ICLR 2017<br>
